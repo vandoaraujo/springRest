@@ -10,6 +10,11 @@ public class Student {
 
     private int id;
     private String name;
+
+    public int getId() {
+        return id;
+    }
+
     public static List<Student> studentList;
 
     static{

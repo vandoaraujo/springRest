@@ -4,6 +4,7 @@
     <list default="true" id="313db7fc-cbc7-4daa-ab5a-5a2019dfdbab" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/endpoint/StudentEndPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/endpoint/StudentEndPoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/model/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,19 +78,52 @@
       <option name="presentableId" value="Default" />
       <updated>1590031435159</updated>
     </task>
+    <task id="LOCAL-00001" summary="method post">
+      <created>1590082912838</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590082912839</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="method post" />
+    <option name="LAST_COMMIT_MESSAGE" value="method post" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="207" y="0" key="CommitChangelistDialog2" timestamp="1590032114903">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="2405" y="66" key="#com.intellij.ide.util.MemberChooser" timestamp="1590088975321">
+      <screen x="1920" y="0" width="1360" height="728" />
     </state>
+    <state x="2405" y="66" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680/1920.0.1360.728@1920.0.1360.728" timestamp="1590088975321" />
+    <state x="2140" y="0" key="CommitChangelistDialog2" timestamp="1590093525143">
+      <screen x="1920" y="0" width="1360" height="728" />
+    </state>
+    <state x="2140" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1360.728@1920.0.1360.728" timestamp="1590093525143" />
     <state x="207" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1590032114903" />
-    <state x="233" y="75" key="Vcs.Push.Dialog.v2" timestamp="1590032141218">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1317" height="179" key="GridCell.Tab.0.bottom" timestamp="1590093059643">
+      <screen x="1920" y="0" width="1360" height="728" />
     </state>
+    <state width="1317" height="179" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1360.728@1920.0.1360.728" timestamp="1590093059643" />
+    <state width="1317" height="179" key="GridCell.Tab.0.center" timestamp="1590093059643">
+      <screen x="1920" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="179" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1360.728@1920.0.1360.728" timestamp="1590093059643" />
+    <state width="1317" height="179" key="GridCell.Tab.0.left" timestamp="1590093059643">
+      <screen x="1920" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="179" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1360.728@1920.0.1360.728" timestamp="1590093059643" />
+    <state width="1317" height="179" key="GridCell.Tab.0.right" timestamp="1590093059643">
+      <screen x="1920" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="179" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1360.728@1920.0.1360.728" timestamp="1590093059643" />
+    <state x="2168" y="80" key="Vcs.Push.Dialog.v2" timestamp="1590082927459">
+      <screen x="1920" y="0" width="1360" height="728" />
+    </state>
+    <state x="2168" y="80" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1360.728@1920.0.1360.728" timestamp="1590082927459" />
     <state x="233" y="75" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1590032141218" />
     <state x="337" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1590081354978">
       <screen x="0" y="0" width="1280" height="680" />
