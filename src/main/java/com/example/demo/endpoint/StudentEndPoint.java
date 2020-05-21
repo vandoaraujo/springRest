@@ -5,10 +5,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestMethod;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 import com.example.demo.util.DateUtil;
 import com.example.demo.model.Student;
 import java.time.LocalDateTime;
@@ -46,5 +43,11 @@ public class StudentEndPoint {
         if(index == -1)
             return new ResponseEntity<>(new CustomErrorType("Student not found"), HttpStatus.NOT_FOUND);
         return new ResponseEntity<>(Student.studentList.get(index), HttpStatus.OK);
+    }
+
+    @RequestMapping(method = RequestMethod.POST)
+    public ResponseEntity<?> save(@RequestBody Student student){
+        Student.studentList.add(student);
+        return new ResponseEntity<>(student, HttpStatus.OK);
     }
 }
