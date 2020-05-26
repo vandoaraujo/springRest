@@ -1,24 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="313db7fc-cbc7-4daa-ab5a-5a2019dfdbab" name="Default Changelist" comment="">
+    <list default="true" id="313db7fc-cbc7-4daa-ab5a-5a2019dfdbab" name="Default Changelist" comment="configuração banco de dados">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_activation_jakarta_activation_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_persistence_jakarta_persistence_api_2_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_transaction_jakarta_transaction_api_1_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_dbcp2_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_dom4j_dom4j_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_4_15_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_24_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_1_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_postgresql_postgresql_42_2_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_2_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_2_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_2_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_2_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_2_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_5_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/error/ResourceNotFoundDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/error/ResourceNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/handler/RestExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_unknown.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/endpoint/StudentEndPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/endpoint/StudentEndPoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/model/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/repository/StudentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/repository/StudentRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/util/CustomErrorType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/error/CustomErrorType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="WARN_ABOUT_CRLF" value="false" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
       <set>
         <option value="C:\Users\Vando Araujo\Documents\GitHub\springRest\.idea" />
       </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
     </option>
   </component>
   <component name="ProjectId" id="1cCTAxqPDAoKCM2aIg7RLd6hlAr" />
@@ -33,7 +81,14 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateBuilderDialog.RecentsKey">
+      <recent name="com.example.demo.error" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="SpringBootEssentialsApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -85,49 +140,79 @@
       <option name="project" value="LOCAL" />
       <updated>1590082912839</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="method post">
+      <created>1590093549247</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590093549247</updated>
+    </task>
+    <task id="LOCAL-00003" summary="configuração banco de dados">
+      <created>1590177584368</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590177584368</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="method post" />
-    <option name="LAST_COMMIT_MESSAGE" value="method post" />
+    <MESSAGE value="configuração banco de dados" />
+    <option name="LAST_COMMIT_MESSAGE" value="configuração banco de dados" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2405" y="66" key="#com.intellij.ide.util.MemberChooser" timestamp="1590088975321">
+    <state x="2405" y="66" key="#com.intellij.ide.util.MemberChooser" timestamp="1590508215183">
       <screen x="1920" y="0" width="1360" height="728" />
     </state>
-    <state x="2405" y="66" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680/1920.0.1360.728@1920.0.1360.728" timestamp="1590088975321" />
-    <state x="2140" y="0" key="CommitChangelistDialog2" timestamp="1590093525143">
+    <state x="2405" y="66" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680/1920.0.1360.728@1920.0.1360.728" timestamp="1590508215183" />
+    <state x="2140" y="0" key="CommitChangelistDialog2" timestamp="1590177580205">
       <screen x="1920" y="0" width="1360" height="728" />
     </state>
-    <state x="2140" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1360.728@1920.0.1360.728" timestamp="1590093525143" />
+    <state x="2140" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1360.728@1920.0.1360.728" timestamp="1590177580205" />
     <state x="207" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1590032114903" />
-    <state width="1317" height="179" key="GridCell.Tab.0.bottom" timestamp="1590093059643">
+    <state width="1317" height="208" key="GridCell.Tab.0.bottom" timestamp="1590508541946">
       <screen x="1920" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="179" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1360.728@1920.0.1360.728" timestamp="1590093059643" />
-    <state width="1317" height="179" key="GridCell.Tab.0.center" timestamp="1590093059643">
+    <state width="1317" height="208" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1360.728@1920.0.1360.728" timestamp="1590508541946" />
+    <state width="1317" height="208" key="GridCell.Tab.0.center" timestamp="1590508541946">
       <screen x="1920" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="179" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1360.728@1920.0.1360.728" timestamp="1590093059643" />
-    <state width="1317" height="179" key="GridCell.Tab.0.left" timestamp="1590093059643">
+    <state width="1317" height="208" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1360.728@1920.0.1360.728" timestamp="1590508541946" />
+    <state width="1317" height="208" key="GridCell.Tab.0.left" timestamp="1590508541945">
       <screen x="1920" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="179" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1360.728@1920.0.1360.728" timestamp="1590093059643" />
-    <state width="1317" height="179" key="GridCell.Tab.0.right" timestamp="1590093059643">
+    <state width="1317" height="208" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1360.728@1920.0.1360.728" timestamp="1590508541945" />
+    <state width="1317" height="208" key="GridCell.Tab.0.right" timestamp="1590508541946">
       <screen x="1920" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="179" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1360.728@1920.0.1360.728" timestamp="1590093059643" />
-    <state x="2168" y="80" key="Vcs.Push.Dialog.v2" timestamp="1590082927459">
+    <state width="1317" height="208" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1360.728@1920.0.1360.728" timestamp="1590508541946" />
+    <state x="2101" y="7" key="SettingsEditor" timestamp="1590502972087">
       <screen x="1920" y="0" width="1360" height="728" />
     </state>
-    <state x="2168" y="80" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1360.728@1920.0.1360.728" timestamp="1590082927459" />
+    <state x="2101" y="7" key="SettingsEditor/0.0.1280.680/1920.0.1360.728@1920.0.1360.728" timestamp="1590502972087" />
+    <state x="2168" y="80" key="Vcs.Push.Dialog.v2" timestamp="1590179067452">
+      <screen x="1920" y="0" width="1360" height="728" />
+    </state>
+    <state x="2168" y="80" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1360.728@1920.0.1360.728" timestamp="1590179067452" />
     <state x="233" y="75" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1590032141218" />
-    <state x="337" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1590081354978">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="2278" y="178" key="com.intellij.ide.util.TipDialog" timestamp="1590502201749">
+      <screen x="1920" y="0" width="1360" height="728" />
     </state>
     <state x="337" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1360.728@0.0.1280.680" timestamp="1590081354978" />
+    <state x="2278" y="178" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1360.728@1920.0.1360.728" timestamp="1590502201749" />
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1590347441183" />
+    <state x="2256" y="162" key="run.anything.popup" timestamp="1590168481070">
+      <screen x="1920" y="0" width="1360" height="728" />
+    </state>
+    <state x="2256" y="162" key="run.anything.popup/0.0.1280.680/1920.0.1360.728@1920.0.1360.728" timestamp="1590168481070" />
+    <state x="323" y="46" width="672" height="634" key="search.everywhere.popup" timestamp="1590414073220">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="323" y="46" width="672" height="634" key="search.everywhere.popup/0.0.1280.680/1920.0.1360.728@0.0.1280.680" timestamp="1590414073220" />
+    <state x="2263" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/1920.0.1360.728@1920.0.1360.728" timestamp="1590169015883" />
   </component>
 </project>
